@@ -1,5 +1,0 @@
-console.log('Initial code')
-
-var abc = 'Hello';
-
-console.log(abc)
