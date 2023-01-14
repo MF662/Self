@@ -1,5 +1,5 @@
 console.log('Initial code')
 
-var abc = ('Hello');
+var abc = 'Hello';
 
 console.log(abc)
